@@ -11,14 +11,14 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    padding: 25px;
+    padding: 30px;
 }
 
 .cartao{
     background-color: #070d12;
     width: 370px;
-    border: 1px solid #01c4e7;
-    border-radius: 10px;
+    border: 1.5px solid #01c4e7;
+    border-radius: 20px;
     overflow: hidden;
 }
 
