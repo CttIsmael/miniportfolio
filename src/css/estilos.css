@@ -10,15 +10,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
-    padding: 30px;
+    min-height: 150vh;
+    padding: 25px;
 }
 
 .cartao{
     background-color: #070d12;
     width: 370px;
-    border: 1px solid #01c4e7;
-    border-radius: 11px;
+    border: 2px solid #01c4e7;
+    border-radius: 10px;
     overflow: hidden;
 }
 
